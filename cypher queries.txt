@@ -1,0 +1,80 @@
+ADD THE FOLLOWING CYPPHER QUERY:
+// Create uniqueness constraint for Item nodes
+CREATE CONSTRAINT item_article_id IF NOT EXISTS
+FOR (i:Item)
+REQUIRE i.article_id IS UNIQUE;
+// Create uniqueness constraint for User nodes
+CREATE CONSTRAINT user_customer_id IF NOT EXISTS
+FOR (u:User)
+REQUIRE u.customer_id IS UNIQUE;
+// Create indexes on properties used frequently in queries (optional)
+CREATE INDEX item_product_type_name IF NOT EXISTS FOR (i:Item) ON (i.product_type_name);
+CREATE INDEX user_age IF NOT EXISTS FOR (u:User) ON (u.age);
+
+// Load articles.csv and create Item nodes
+LOAD CSV WITH HEADERS FROM 'file:///articles_filtered.csv' AS row
+FIELDTERMINATOR ','
+CREATE (i:Item {
+    article_id: toString(row.article_id),
+    product_code: toInteger(row.product_code),
+    prod_name: row.prod_name,
+    product_type_no: toInteger(row.product_type_no),
+    product_type_name: row.product_type_name,
+    product_group_name: row.product_group_name,
+    graphical_appearance_no: toInteger(row.graphical_appearance_no),
+    graphical_appearance_name: row.graphical_appearance_name,
+    colour_group_code: toInteger(row.colour_group_code),
+    colour_group_name: row.colour_group_name,
+    perceived_colour_value_id: toInteger(row.perceived_colour_value_id),
+    perceived_colour_value_name: row.perceived_colour_value_name,
+    perceived_colour_master_id: toInteger(row.perceived_colour_master_id),
+    perceived_colour_master_name: row.perceived_colour_master_name,
+    department_no: toInteger(row.department_no),
+    department_name: row.department_name,
+    index_code: row.index_code,
+    index_name: row.index_name,
+    index_group_no: toInteger(row.index_group_no),
+    index_group_name: row.index_group_name,
+    section_no: toInteger(row.section_no),
+    section_name: row.section_name,
+    garment_group_no: toInteger(row.garment_group_no),
+    garment_group_name: row.garment_group_name,
+    detail_desc: row.detail_desc
+});
+
+// Load customers.csv and create User nodes
+LOAD CSV WITH HEADERS FROM 'file:///customers_filtered.csv' AS row
+FIELDTERMINATOR ','
+CREATE (u:User {
+    customer_id: row.customer_id,
+    FN: CASE WHEN row.FN = '' THEN null ELSE toInteger(row.FN) END,
+    Active: CASE WHEN row.Active = '' THEN null ELSE toInteger(row.Active) END,
+    club_member_status: row.club_member_status,
+    fashion_news_frequency: row.fashion_news_frequency,
+    age: CASE WHEN row.age = '' THEN null ELSE toInteger(row.age) END,
+    postal_code: row.postal_code
+});
+
+LOAD CSV WITH HEADERS FROM 'file:///transactions_filtered.csv' AS row
+FIELDTERMINATOR ','
+MATCH (u:User {customer_id: row.customer_id})
+MATCH (i:Item {article_id: toString(row.article_id)})
+CREATE (u)-[r:INTERACTED_WITH {
+    t_dat: date(row.t_dat),
+    price: toFloat(row.price),
+    sales_channel_id: toInteger(row.sales_channel_id)
+}]->(i);
+
+LOAD CSV WITH HEADERS FROM 'file:///co_purchases.csv' AS row
+FIELDTERMINATOR ','
+MATCH (i1:Item {article_id: row.article_id_1})
+MATCH (i2:Item {article_id: row.article_id_2})
+MERGE (i1)-[r:BOUGHT_TOGETHER]->(i2)
+ON CREATE SET r.count = toInteger(row.count)
+ON MATCH SET r.count = r.count + toInteger(row.count);
+
+LOAD CSV WITH HEADERS FROM 'file:///image_embedding.csv' AS row
+FIELDTERMINATOR ','
+MATCH (i:Item {article_id: row.article_id})
+SET i.image_embedding = [x IN split(trim(replace(replace(row.image_embedding, '[', ''), ']', '')), ',') | toFloat(x)]
+RETURN count(i) AS updated_nodes
