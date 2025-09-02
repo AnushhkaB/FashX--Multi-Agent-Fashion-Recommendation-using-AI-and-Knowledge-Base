@@ -1,0 +1,17 @@
+boto3
+botocore
+openai
+langchain-anthropic
+langchain-openai
+langchain-core
+nest-asyncio
+sentence-transformers
+autogen-ext[openai]
+autogen-core
+autogen-agentchat
+bs4
+requests
+aiohttp
+sympy
+markdown
+gradio

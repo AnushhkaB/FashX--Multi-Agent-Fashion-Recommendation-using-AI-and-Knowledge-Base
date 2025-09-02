@@ -1,0 +1,1133 @@
+﻿[
+  {
+    "indexGroup": "Baby/Children",
+    "productTypeInfo": [
+      {
+        "color_group_names": [
+          "Greenish Khaki",
+          "Dark Blue",
+          "Light Grey"
+        ],
+        "product_type_name": "Belt"
+      },
+      {
+        "color_group_names": [
+          "Dark Red",
+          "Grey",
+          "Blue",
+          "Light Pink"
+        ],
+        "product_type_name": "Blazer"
+      },
+      {
+        "color_group_names": [
+          "Light Pink",
+          "Light Blue",
+          "Red",
+          "Light Orange",
+          "Yellow",
+          "Dark Blue"
+        ],
+        "product_type_name": "Blouse"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "Dark Blue",
+          "Yellowish Brown",
+          "Yellow",
+          "Dark Red",
+          "Other Pink",
+          "Light Orange"
+        ],
+        "product_type_name": "Boots"
+      },
+      {
+        "color_group_names": [
+          "White",
+          "Black",
+          "Yellow",
+          "Pink",
+          "Dark Blue",
+          "Dark Green",
+          "Light Pink",
+          "Off White",
+          "Greenish Khaki",
+          "Grey",
+          "Red",
+          "Light Turquoise",
+          "Light Grey"
+        ],
+        "product_type_name": "Dress"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "Light Pink",
+          "Grey",
+          "Other",
+          "White",
+          "Dark Grey",
+          "Beige",
+          "Black",
+          "Light Beige",
+          "Dark Orange",
+          "Blue",
+          "Other Orange",
+          "Light Grey",
+          "Pink",
+          "Light Orange"
+        ],
+        "product_type_name": "Hat/beanie"
+      },
+      {
+        "color_group_names": [
+          "Dark Grey",
+          "Red",
+          "Light Pink",
+          "Dark Blue",
+          "Light Grey",
+          "Greenish Khaki",
+          "Off White",
+          "Blue",
+          "Black",
+          "Grey",
+          "Beige",
+          "Yellow",
+          "Light Beige"
+        ],
+        "product_type_name": "Hoodie"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "Dark Pink",
+          "Green",
+          "Black",
+          "Greenish Khaki",
+          "Grey",
+          "Light Orange",
+          "Beige",
+          "Off White",
+          "Light Pink",
+          "Light Turquoise",
+          "Other",
+          "Turquoise",
+          "Blue",
+          "Dark Green",
+          "Yellow"
+        ],
+        "product_type_name": "Jacket"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "Red",
+          "Grey",
+          "Off White",
+          "Dark Purple",
+          "Dark Grey",
+          "Greenish Khaki",
+          "White",
+          "Dark Pink",
+          "Dark Blue",
+          "Light Pink",
+          "Blue",
+          "Light Beige",
+          "Pink",
+          "Light Blue",
+          "Light Orange"
+        ],
+        "product_type_name": "Leggings/Tights"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "Light Green",
+          "Light Orange",
+          "Light Turquoise",
+          "Red",
+          "Dark Pink",
+          "Blue",
+          "Light Red"
+        ],
+        "product_type_name": "Polo shirt"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "Light Pink",
+          "Bronze/Copper",
+          "Yellowish Brown",
+          "Dark Beige",
+          "White",
+          "Light Orange",
+          "Light Blue",
+          "Dark Blue",
+          "Gold",
+          "Blue"
+        ],
+        "product_type_name": "Sandals"
+      },
+      {
+        "color_group_names": [
+          "White",
+          "Red",
+          "Light Blue",
+          "Black",
+          "Grey",
+          "Yellow",
+          "Light Beige",
+          "Dark Blue",
+          "Blue"
+        ],
+        "product_type_name": "Shirt"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "Greenish Khaki",
+          "Blue",
+          "Yellow",
+          "Light Beige",
+          "Black",
+          "Light Blue",
+          "Light Red",
+          "Grey",
+          "White",
+          "Off White",
+          "Light Pink",
+          "Beige",
+          "Light Yellow",
+          "Red",
+          "Light Turquoise",
+          "Dark Grey"
+        ],
+        "product_type_name": "Shorts"
+      },
+      {
+        "color_group_names": [
+          "Light Blue",
+          "Light Pink",
+          "Dark Turquoise",
+          "White",
+          "Black",
+          "Turquoise",
+          "Pink",
+          "Light Purple"
+        ],
+        "product_type_name": "Skirt"
+      },
+      {
+        "color_group_names": [
+          "Dark Grey",
+          "Yellow",
+          "Light Pink",
+          "Yellowish Brown",
+          "Black",
+          "Light Beige",
+          "White",
+          "Off White",
+          "Grey",
+          "Light Purple",
+          "Dark Blue",
+          "Beige",
+          "Orange",
+          "Light Grey",
+          "Light Orange",
+          "Red"
+        ],
+        "product_type_name": "Slippers"
+      },
+      {
+        "color_group_names": [
+          "Yellowish Brown",
+          "Black",
+          "Dark Blue",
+          "Dark Green",
+          "White",
+          "Light Orange",
+          "Grey",
+          "Green",
+          "Silver",
+          "Blue",
+          "Greenish Khaki",
+          "Light Beige"
+        ],
+        "product_type_name": "Sneakers"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "Light Pink",
+          "Red",
+          "Grey",
+          "Dark Grey",
+          "Green",
+          "White",
+          "Light Turquoise",
+          "Off White",
+          "Dark Red",
+          "Light Purple",
+          "Light Grey",
+          "Light Yellow",
+          "Yellow"
+        ],
+        "product_type_name": "Socks"
+      },
+      {
+        "color_group_names": [
+          "Dark Beige",
+          "Light Yellow",
+          "Light Pink",
+          "Black",
+          "Other Pink",
+          "Dark Pink",
+          "Light Orange",
+          "Other Blue",
+          "Turquoise",
+          "Greenish Khaki"
+        ],
+        "product_type_name": "Sunglasses"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "Red",
+          "Black",
+          "Off White",
+          "Yellow",
+          "Grey",
+          "Light Beige",
+          "Greenish Khaki",
+          "Dark Yellow",
+          "Light Pink",
+          "Dark Grey"
+        ],
+        "product_type_name": "Sweater"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "Turquoise",
+          "White",
+          "Grey",
+          "Light Orange",
+          "Greenish Khaki",
+          "Light Pink",
+          "Red",
+          "Yellow",
+          "Dark Green",
+          "Light Beige",
+          "Light Grey",
+          "Blue",
+          "Light Green",
+          "Light Blue",
+          "Pink",
+          "Black",
+          "Light Purple"
+        ],
+        "product_type_name": "T-shirt"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "Red",
+          "Yellow",
+          "Grey",
+          "Dark Grey",
+          "White",
+          "Beige",
+          "Black",
+          "Light Blue",
+          "Light Pink",
+          "Light Turquoise",
+          "Light Grey",
+          "Light Yellow",
+          "Light Purple",
+          "Off White"
+        ],
+        "product_type_name": "Top"
+      },
+      {
+        "color_group_names": [
+          "Dark Red",
+          "Yellow",
+          "Dark Grey",
+          "Dark Blue",
+          "Pink",
+          "Black",
+          "Grey",
+          "Blue",
+          "Greenish Khaki",
+          "White",
+          "Green"
+        ],
+        "product_type_name": "Trousers"
+      },
+      {
+        "color_group_names": [
+          "Yellow",
+          "Black",
+          "Dark Blue",
+          "Blue",
+          "Grey",
+          "Red",
+          "White",
+          "Green",
+          "Orange",
+          "Light Grey",
+          "Light Blue"
+        ],
+        "product_type_name": "Underwear bottom"
+      },
+      {
+        "color_group_names": [
+          "White",
+          "Grey",
+          "Red",
+          "Light Orange",
+          "Dark Blue",
+          "Dark Orange",
+          "Yellow"
+        ],
+        "product_type_name": "Vest top"
+      }
+    ]
+  },
+  {
+    "indexGroup": "Ladieswear",
+    "productTypeInfo": [
+      {
+        "color_group_names": [
+          "Pink",
+          "Black",
+          "Beige",
+          "Gold",
+          "Red",
+          "Dark Red",
+          "Light Beige",
+          "Yellowish Brown",
+          "Dark Beige",
+          "Dark Orange",
+          "Dark Blue",
+          "White",
+          "Light Yellow",
+          "Yellow"
+        ],
+        "product_type_name": "Bag"
+      },
+      {
+        "color_group_names": [
+          "Light Orange",
+          "Silver",
+          "Black",
+          "Dark Red",
+          "Dark Green",
+          "Dark Orange",
+          "Yellowish Brown",
+          "Off White",
+          "Beige"
+        ],
+        "product_type_name": "Belt"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "White",
+          "Light Pink",
+          "Dark Blue",
+          "Grey",
+          "Light Grey",
+          "Dark Red",
+          "Off White",
+          "Pink",
+          "Beige",
+          "Light Beige",
+          "Yellowish Brown",
+          "Light Purple"
+        ],
+        "product_type_name": "Blazer"
+      },
+      {
+        "color_group_names": [
+          "Dark Yellow",
+          "Light Beige",
+          "Light Green",
+          "Black",
+          "Dark Pink",
+          "Dark Blue",
+          "Red",
+          "White",
+          "Light Blue",
+          "Dark Grey",
+          "Grey",
+          "Yellow",
+          "Turquoise",
+          "Off White",
+          "Blue",
+          "Greenish Khaki",
+          "Light Orange",
+          "Pink",
+          "Green",
+          "Dark Green",
+          "Dark Orange",
+          "Dark Red",
+          "Orange",
+          "Yellowish Brown",
+          "Light Grey"
+        ],
+        "product_type_name": "Blouse"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "White",
+          "Yellowish Brown",
+          "Dark Orange",
+          "Dark Red",
+          "Dark Grey",
+          "Red",
+          "Dark Beige"
+        ],
+        "product_type_name": "Boots"
+      },
+      {
+        "color_group_names": [
+          "Light Pink",
+          "Dark Red",
+          "Pink",
+          "Light Orange",
+          "Blue",
+          "Dark Green",
+          "Off White",
+          "White",
+          "Black",
+          "Yellowish Brown",
+          "Beige",
+          "Light Blue",
+          "Dark Pink"
+        ],
+        "product_type_name": "Bra"
+      },
+      {
+        "color_group_names": [
+          "White",
+          "Unknown",
+          "Black",
+          "Greenish Khaki",
+          "Dark Grey",
+          "Dark Pink",
+          "Off White",
+          "Red",
+          "Pink",
+          "Dark Green",
+          "Light Pink",
+          "Dark Blue",
+          "Light Beige",
+          "Yellow",
+          "Dark Turquoise",
+          "Light Turquoise",
+          "Blue",
+          "Beige",
+          "Green",
+          "Dark Orange",
+          "Light Orange",
+          "Light Green",
+          "Dark Purple",
+          "Dark Beige",
+          "Light Blue",
+          "Dark Red"
+        ],
+        "product_type_name": "Dress"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "Light Beige",
+          "Greenish Khaki",
+          "Light Orange",
+          "Light Grey",
+          "Dark Blue",
+          "Light Blue",
+          "Dark Green",
+          "Purple"
+        ],
+        "product_type_name": "Hat/beanie"
+      },
+      {
+        "color_group_names": [
+          "Off White",
+          "Blue",
+          "Green",
+          "Light Blue",
+          "Light Beige"
+        ],
+        "product_type_name": "Hoodie"
+      },
+      {
+        "color_group_names": [
+          "Red",
+          "Other Pink",
+          "Dark Beige",
+          "Yellowish Brown",
+          "Yellow",
+          "Light Blue",
+          "Beige",
+          "Light Orange",
+          "Grey",
+          "Greenish Khaki",
+          "Black",
+          "Light Pink",
+          "Light Beige",
+          "Greyish Beige",
+          "Dark Orange",
+          "Light Grey",
+          "Green"
+        ],
+        "product_type_name": "Jacket"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "Dark Green",
+          "Dark Grey",
+          "Grey",
+          "Dark Blue",
+          "Dark Purple"
+        ],
+        "product_type_name": "Leggings/Tights"
+      },
+      {
+        "color_group_names": [
+          "Grey"
+        ],
+        "product_type_name": "Polo shirt"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "Dark Red",
+          "Light Red",
+          "White",
+          "Light Pink",
+          "Dark Turquoise",
+          "Beige",
+          "Red",
+          "Light Orange",
+          "Light Beige",
+          "Yellowish Brown",
+          "Light Grey",
+          "Bronze/Copper",
+          "Pink"
+        ],
+        "product_type_name": "Sandals"
+      },
+      {
+        "color_group_names": [
+          "Red",
+          "White",
+          "Light Pink",
+          "Light Blue",
+          "Dark Green",
+          "Green",
+          "Black",
+          "Light Red",
+          "Dark Blue",
+          "Dark Grey"
+        ],
+        "product_type_name": "Shirt"
+      },
+      {
+        "color_group_names": [
+          "Greenish Khaki",
+          "Black",
+          "Light Yellow",
+          "Light Blue",
+          "Light Pink",
+          "Dark Blue"
+        ],
+        "product_type_name": "Shorts"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "Light Pink",
+          "Beige",
+          "Dark Grey",
+          "Dark Orange",
+          "Blue",
+          "White",
+          "Green",
+          "Grey",
+          "Dark Green",
+          "Greenish Khaki",
+          "Pink",
+          "Dark Red",
+          "Dark Pink",
+          "Yellowish Brown",
+          "Light Beige",
+          "Off White",
+          "Light Orange",
+          "Dark Blue",
+          "Dark Yellow",
+          "Greyish Beige",
+          "Red",
+          "Light Turquoise",
+          "Light Yellow"
+        ],
+        "product_type_name": "Skirt"
+      },
+      {
+        "color_group_names": [
+          "Beige",
+          "Light Pink",
+          "Black",
+          "Off White",
+          "Blue",
+          "Light Beige",
+          "White",
+          "Pink",
+          "Greenish Khaki",
+          "Dark Yellow",
+          "Yellowish Brown",
+          "Red",
+          "Dark Grey"
+        ],
+        "product_type_name": "Slippers"
+      },
+      {
+        "color_group_names": [
+          "Light Beige",
+          "Black",
+          "Red",
+          "White",
+          "Pink"
+        ],
+        "product_type_name": "Sneakers"
+      },
+      {
+        "color_group_names": [
+          "Beige",
+          "Black",
+          "Grey",
+          "Dark Pink",
+          "Light Pink",
+          "Light Orange",
+          "Light Grey",
+          "Dark Red",
+          "White",
+          "Dark Grey"
+        ],
+        "product_type_name": "Socks"
+      },
+      {
+        "color_group_names": [
+          "Bronze/Copper",
+          "Beige",
+          "Black",
+          "Yellowish Brown",
+          "Light Orange",
+          "Dark Pink",
+          "Pink",
+          "Light Beige",
+          "Light Pink",
+          "Dark Yellow",
+          "Gold",
+          "Red",
+          "Off White",
+          "Other Orange",
+          "Silver"
+        ],
+        "product_type_name": "Sunglasses"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "Yellowish Brown",
+          "Grey",
+          "Dark Blue",
+          "Light Grey",
+          "Blue",
+          "Light Turquoise",
+          "Beige",
+          "Greenish Khaki",
+          "Red",
+          "Dark Pink",
+          "Light Yellow",
+          "Light Beige",
+          "Dark Grey",
+          "Other Blue"
+        ],
+        "product_type_name": "Sweater"
+      },
+      {
+        "color_group_names": [
+          "White",
+          "Greenish Khaki",
+          "Light Pink",
+          "Yellowish Brown",
+          "Dark Blue",
+          "Other Red",
+          "Grey",
+          "Dark Purple",
+          "Yellow",
+          "Light Beige",
+          "Dark Grey",
+          "Off White"
+        ],
+        "product_type_name": "T-shirt"
+      },
+      {
+        "color_group_names": [
+          "Light Beige",
+          "Yellow",
+          "Black",
+          "Dark Blue",
+          "Greenish Khaki",
+          "White",
+          "Green",
+          "Off White",
+          "Pink",
+          "Dark Beige",
+          "Dark Pink",
+          "Dark Red",
+          "Dark Purple",
+          "Light Pink",
+          "Other",
+          "Dark Green",
+          "Grey",
+          "Dark Orange",
+          "Red",
+          "Dark Grey",
+          "Light Grey",
+          "Light Turquoise",
+          "Light Orange",
+          "Light Blue",
+          "Beige",
+          "Light Red"
+        ],
+        "product_type_name": "Top"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "Light Grey",
+          "Black",
+          "White",
+          "Dark Yellow",
+          "Light Blue",
+          "Dark Grey",
+          "Yellowish Brown",
+          "Light Beige",
+          "Beige",
+          "Blue",
+          "Dark Orange",
+          "Dark Red",
+          "Light Pink"
+        ],
+        "product_type_name": "Trousers"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "Light Beige",
+          "Pink",
+          "Light Pink",
+          "White",
+          "Light Red",
+          "Red",
+          "Dark Red",
+          "Grey",
+          "Greenish Khaki",
+          "Dark Blue",
+          "Light Green",
+          "Orange"
+        ],
+        "product_type_name": "Underwear bottom"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "White",
+          "Black",
+          "Orange",
+          "Blue",
+          "Dark Red",
+          "Silver",
+          "Light Orange",
+          "Light Beige",
+          "Greenish Khaki",
+          "Dark Green",
+          "Off White",
+          "Other Purple"
+        ],
+        "product_type_name": "Vest top"
+      }
+    ]
+  },
+  {
+    "indexGroup": "Menswear",
+    "productTypeInfo": [
+      {
+        "color_group_names": [
+          "Black",
+          "Beige",
+          "Dark Blue",
+          "Greenish Khaki",
+          "Dark Yellow",
+          "Dark Grey"
+        ],
+        "product_type_name": "Bag"
+      },
+      {
+        "color_group_names": [
+          "Yellowish Brown",
+          "Black",
+          "Dark Orange",
+          "Light Beige"
+        ],
+        "product_type_name": "Belt"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "Dark Grey",
+          "Dark Blue",
+          "Dark Red",
+          "Grey",
+          "Beige",
+          "Light Grey"
+        ],
+        "product_type_name": "Blazer"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "Dark Red",
+          "Yellowish Brown"
+        ],
+        "product_type_name": "Boots"
+      },
+      {
+        "color_group_names": [
+          "Grey"
+        ],
+        "product_type_name": "Bra"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "Dark Yellow",
+          "Yellow",
+          "Dark Orange",
+          "Dark Green",
+          "Light Grey",
+          "Dark Blue"
+        ],
+        "product_type_name": "Hat/beanie"
+      },
+      {
+        "color_group_names": [
+          "Dark Green",
+          "Red",
+          "Grey",
+          "Dark Blue",
+          "Yellow",
+          "Off White",
+          "Light Grey",
+          "Black"
+        ],
+        "product_type_name": "Hoodie"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "Black",
+          "Red",
+          "Blue",
+          "Yellow",
+          "Beige",
+          "Yellowish Brown"
+        ],
+        "product_type_name": "Jacket"
+      },
+      {
+        "color_group_names": [
+          "White",
+          "Dark Red",
+          "Light Turquoise",
+          "Yellowish Brown",
+          "Off White",
+          "Dark Blue",
+          "Black",
+          "Greenish Khaki",
+          "Light Blue",
+          "Dark Green",
+          "Light Orange"
+        ],
+        "product_type_name": "Polo shirt"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "Black",
+          "Greenish Khaki",
+          "Yellowish Brown"
+        ],
+        "product_type_name": "Sandals"
+      },
+      {
+        "color_group_names": [
+          "Light Blue",
+          "Dark Turquoise",
+          "Red",
+          "Light Turquoise",
+          "White",
+          "Black",
+          "Dark Yellow",
+          "Dark Blue",
+          "Dark Red",
+          "Greenish Khaki",
+          "Light Pink",
+          "Dark Orange",
+          "Beige",
+          "Pink",
+          "Blue",
+          "Dark Beige"
+        ],
+        "product_type_name": "Shirt"
+      },
+      {
+        "color_group_names": [
+          "Greenish Khaki",
+          "Black",
+          "Dark Blue",
+          "Light Grey",
+          "Dark Grey",
+          "Light Green",
+          "Pink",
+          "White",
+          "Light Blue",
+          "Beige",
+          "Off White",
+          "Turquoise"
+        ],
+        "product_type_name": "Shorts"
+      },
+      {
+        "color_group_names": [
+          "Dark Grey",
+          "Black",
+          "Dark Beige",
+          "Dark Blue"
+        ],
+        "product_type_name": "Slippers"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "Black",
+          "Yellowish Brown",
+          "White",
+          "Light Grey"
+        ],
+        "product_type_name": "Sneakers"
+      },
+      {
+        "color_group_names": [
+          "Light Green",
+          "White",
+          "Black",
+          "Grey",
+          "Dark Green",
+          "Blue",
+          "Dark Blue"
+        ],
+        "product_type_name": "Socks"
+      },
+      {
+        "color_group_names": [
+          "Black",
+          "Silver",
+          "Light Yellow",
+          "Yellowish Brown",
+          "Gold",
+          "Transparent",
+          "Light Blue",
+          "Dark Blue"
+        ],
+        "product_type_name": "Sunglasses"
+      },
+      {
+        "color_group_names": [
+          "Light Pink",
+          "Dark Blue",
+          "Grey",
+          "Greenish Khaki",
+          "Black",
+          "Dark Green",
+          "Purple",
+          "Dark Beige",
+          "Red",
+          "Light Grey",
+          "Dark Grey",
+          "Dark Turquoise"
+        ],
+        "product_type_name": "Sweater"
+      },
+      {
+        "color_group_names": [
+          "Greenish Khaki",
+          "White",
+          "Light Beige",
+          "Dark Blue",
+          "Black",
+          "Red",
+          "Light Pink",
+          "Dark Purple"
+        ],
+        "product_type_name": "T-shirt"
+      },
+      {
+        "color_group_names": [
+          "Dark Grey",
+          "Dark Blue"
+        ],
+        "product_type_name": "Top"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "Black",
+          "Light Blue",
+          "Dark Grey",
+          "Blue",
+          "Dark Beige",
+          "Grey",
+          "Yellowish Brown",
+          "Beige"
+        ],
+        "product_type_name": "Trousers"
+      },
+      {
+        "color_group_names": [
+          "Dark Blue",
+          "White",
+          "Black",
+          "Blue"
+        ],
+        "product_type_name": "Underwear bottom"
+      },
+      {
+        "color_group_names": [
+          "White",
+          "Black",
+          "Off White",
+          "Dark Blue"
+        ],
+        "product_type_name": "Vest top"
+      }
+    ]
+  }
+]
